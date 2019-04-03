@@ -9,7 +9,7 @@
 <script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery-1.8.3.js"></script>
 <script type="text/javascript">
 	$(function(){
-		//第一行
+		//第一1行
 		var $div=$("div");
 		         //第二行
 		$div.hover(function(){
