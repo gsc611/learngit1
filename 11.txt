@@ -4,6 +4,7 @@ dubbo is a goot tool.
 
 zookeeper
 
+git has a mutable called stage.
 
 
 
